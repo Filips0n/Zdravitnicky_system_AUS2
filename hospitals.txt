@@ -1,0 +1,257 @@
+Mayo Clinic
+Cleveland Clinic
+The Johns Hopkins Hospital
+FrancoUSAese Hospital
+California Pacific Medical Center
+MedStar Hospital Center
+Arnold Palmer Hospital
+Adventist Health White Memorial
+Adventist Health and Rideout
+Adventist HealthCare Center
+Advocate Christ Medical Center
+Advocate Condell Medical Center
+Alamance Regional Medical Center
+Alameda Hospital
+Alaska Regional Hospital
+Albany Medical Center
+Boston Children Hospital
+Alhambra Hospital Medical Center
+Alice Hyde Medical Center
+Allegheny General Hospital
+Allegheny Valley Hospital
+Allen Hospital
+Alliance Community Hospital
+AllianceHealth Durant
+AllianceHealth Ponca City
+AllianceHealth Woodward
+Alomere Health
+Alta Bates Summit Medical Center
+Alta Vista Regional Hospital
+Alton Memorial Hospital
+Altru Health System
+Alvarado Hospital Medical Center
+AnMed Health Medical Center
+Anaheim Global Medical Center
+Andalusia Health
+Anderson Hospital
+Mayo Clinic
+Cleveland Clinic
+The Johns Hopkins Hospital
+Texas Children Hospital
+UCLA Medical Center
+Luke Roosevelt Hospital Center
+Bascom Palmer Anne Bates
+Bellevue Hospital Center
+Advocate Good Samaritan Hospital
+Advocate Good Shepherd Hospital
+Advocate Illinois Masonic Medical Center
+Advocate Lutheran General Hospital
+Advocate Sherman Hospital
+Advocate South Suburban Hospital
+Advocate Trinity Hospital
+Aiken Regional Medical Centers
+Boulder Community Foothills Hospital
+Bozeman Health Deaconess Hospital
+Bradford Regional Medical Center
+Brattleboro Memorial Hospital
+Bravera Health Brooksville
+Bravera Health Seven Rivers
+Bravera Health Spring Hill
+Bridgeport Hospital
+Bridgeport Hospital Milford Campus
+Brigham And Womens Hospital
+Brigham and Womens Faulkner Hospital
+Bristol Health
+Bristol Regional Medical Center
+Broadlawns Medical Center
+Bronson Battle Creek
+Bronson Methodist Hospital
+BronxCare Health System
+Brookdale Hospital Medical Center
+Brookings Health System
+Brooks Memorial Hospital
+Brookwood Baptist Medical Center
+Broward Health Coral Springs
+Broward Health Imperial Point
+Broward Health Medical Center
+Broward Health North
+Bryan East Campus
+Bryan West Campus
+Buchanan General Hospital
+Buffalo General Medical Center
+Buffalo Hospital
+Butler Memorial Hospital
+Byrd Regional Hospital
+CAMC General Hospital
+CAMC Teays Valley Hospital
+CENTRAL CAROLINA HOSPITAL
+CGH Medical Center
+CHA Cambridge Hospital
+CHA Everett Hospital
+CHI Health Creighton University Medical Center Bergan Mercy
+CHI Health Good Samaritan
+CHI Health Immanuel
+CHI Health Lakeside
+CHI Health Mercy Council Bluffs
+CHI Health Midlands
+CHI Health St Francis
+CHI Health St Elizabeth
+CHI Mercy Health Mercy Medical Center
+CHI St Luks Health Sugar Land Hospital
+CHI St Lukes Hospital at The Vintage
+CHRISTUS Good Shepherd Medical Center Longview
+CHRISTUS Good Shepherd Medical CenterMarshall
+CHRISTUS Health ShreveportBossier
+CHRISTUS Mother Frances Hospital Sulphur Springs
+CHRISTUS Mother Frances Hospital Tyler
+CHRISTUS Ochsner Lake Area
+CHRISTUS Ochsner St Patrick Hospital of Lake Charles
+CHRISTUS Santa Rosa Health Care Medical Center
+CHRISTUS Santa Rosa Hospital New Braunfels
+CHRISTUS Santa Rosa Hospital San Marcos
+CHRISTUS Santa Rosa Hospital Westover Hills
+CHRISTUS Southeast Texas St Elizabeth
+CHRISTUS Spohn Hospital Alice
+CHRISTUS Spohn Hospital Beeville
+CHRISTUS Spohn Hospital Corpus Christi Shoreline
+CHRISTUS Spohn Hospital Corpus Christi South
+CHRISTUS Spohn Hospital Kleberg
+CHRISTUS St Frances Cabrini Hospital
+CHRISTUS St Michael Health System
+CHRISTUS S Vincent Regional Medical Center
+CHWC Bryan Hospital
+CJW Medical Center Chippenham Campus
+CJW Medical Center JohnstonWillis Campus
+COMMUNITY HOSPITAL OF SAN BERNARDINO
+Cabell Huntington Hospital
+Caldwell UNC Healthcare
+California Hospital Medical Center
+California Pacific Medical Center Davies Campus
+California Pacific Medical Center Mission Bernal Campus
+CalvertHealth Medical Center
+Cambridge Medical Center
+Camden Clark Medical Center
+Cameron Regional Medical Center
+Campbell County Health
+Candler Hospital
+Canonsburg General Hospital
+CantonPotsdam Hospital
+Canyon Vista Medical Center
+Cape Canaveral Hospital
+Cape Cod Hospital
+Cape Coral Hospital
+Cape Fear Valley Hoke Healthcare
+Cape Fear Valley Medical Center
+Cape Regional Medical Center
+Capital Health Medical Center Hopewell
+Capital Health Regional Medical Center
+Capital Medical Center
+Capital Region Medical Center
+CarePoint HealthBayonne Medical Center
+CarePoint HealthChrist Hospital
+CareWell Health Medical Center
+Carepoint HealthHoboken University Medical Center
+Carilion Franklin Memorial Hospital
+Carilion New River Valley Medical Center
+Carilion Roanoke Memorial Hospital
+Carle BroMenn Medical Center
+Carle Foundation Hospital
+Carle Richland Memorial Hospital
+Carlsbad Medical Center
+Carney Hospital
+CaroMont Regional Medical Center
+Carolina Pines Regional Medical Center
+CarolinaEast Medical Center
+Carolinas Medical Center
+Carolinas Medical Center Mercy
+Carondelet St Marys Hospital
+Carris Health Rice Memorial Hospital
+Carroll Hospital Center
+Carrollton Regional Medical Center
+Carson Tahoe Regional Medical Center
+Carteret Health Care
+Cary Medical Center
+Cascade Valley Hospital
+Castleview Hospital
+Catawba Valley Medical Center
+Catholic Health System Kenmore Mercy Hospital
+Catholic Health System Mercy Hospital of Buffalo
+Catholic Health Syste Mount St Marys Hospital
+Catholic Health System Sisters of Charity Hospital
+Catholic Medical Center
+Cayuga Medical Center
+Cedar Park Regional Medical Center
+CedarsSinai Marina Del Rey Hospital
+CedarsSinai Medical Center
+Centennial Hills Hospital Medical Center
+Centerpoint Medical Center
+Centinela Hospital Medical Center
+Centra Bedford Memorial Hospital
+Centra Lynchburg General Hospital
+Centra Southside Community Hospital
+Centra Virginia Baptist Hospital
+CentraState Medical Center
+Central Harnett Hospital
+Central Maine Medical Center
+Central Peninsula General Hospital
+Central Vermont Medical Center
+Central Washinton Hospital
+Centura Health Catherine Hospital Dodge City
+Centura Health Elizabeth Hospital
+Centura Health Anthony Hospital
+Centura Health Castle Rock Adventist Hospital
+Centura HealthAvista Adventist Hospital
+Centura HealthLittleton Adventist Hospital
+Centura HealthLongmont United Hospital
+Centura HealthMercy Regional Medical Center
+Centura HealthParker Adventist Hospital
+Centura HealthPenrose Hospital
+Centura HealthPorter Adventist Hospital
+Centura Health Anthony North Hospital
+Centura Health Anthony Summit Hospital
+Centura Health Catherine Hospital
+Centura Health Francis Medical Center
+Centura Health Mary Corwin Medical Center
+Champlain Valley Physicians Hospital
+Chan SoonShiong Medical Center at Windber
+Chandler Regional Medical Center
+Chapman Global Medical Center
+Charlotte Hungerford Hospital
+Charlton Memorial Hospital
+Cherokee Medical Center
+Chesapeake Regional Medical Center
+Cheshire Medical Center
+Chester County Hospital
+Chestnut Hill Hospital
+Cheyenne Regional Medical Center West Campus
+Chilton Medical Center
+Chinese Hospital
+Chino Valley Medical Center
+Christian Hospital
+Christiana Care Health System Christiana Hospital
+Christiana Care Health System Wilmington Hospital
+Christiana Care Union Hospital
+Citizens Baptist Medical Center
+Citizens Medical Center
+Citizens Memorial Hospital
+City Hospital at White Rock
+Claiborne Medical Center
+Claiborne Memorial Medical Center
+Clara Maass Medical Center
+Clarion Hospital
+Clark Memorial Hospital
+Clark Regional Medical Center
+ClaxtonHepburn Medical Center
+Clay County Hospital
+Cleveland Clinic Akron General Medical Center
+Cleveland Clinic Avon Hospital
+Cleveland Clinic Foundation
+Cleveland Clinic Health System Euclid Hospital
+Cleveland Clinic Health System Fairview Hospital
+Cleveland Clinic Health System Hillcrest Hospital
+Cleveland Clinic Health System Lutheran Hospital
+Cleveland Clinic Health System Marymount Hospital
+Cleveland Clinic Health System Medina General Hospital
+Cleveland Clinic Health System South Pointe Hospital
+Cleveland Clinic Hospital Weston
+Cleveland Clinic Indian River Hospital
